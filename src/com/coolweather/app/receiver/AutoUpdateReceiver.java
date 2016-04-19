@@ -5,7 +5,6 @@ import com.coolweather.app.service.AutoUpdateService;
 import android.content.BroadcastReceiver;
 import android.content.Context;
 import android.content.Intent;
-import android.sax.StartElementListener;
 
 public class AutoUpdateReceiver extends BroadcastReceiver {
 
